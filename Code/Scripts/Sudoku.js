@@ -108,29 +108,6 @@ $(function(){
         }
     });
 });
-
-
-
-
-
-
-
-
-// const settings = {
-// 	"async": true,
-// 	"crossDomain": true,
-// 	"url": "https://sudoku-service.p.rapidapi.com/v1/sudoku?withSolution=true",
-// 	"method": "GET",
-// 	"headers": {
-// 		"X-RapidAPI-Key": "3b818ee0femshb5f7bd380463df6p118badjsn5bc70857df15",
-// 		"X-RapidAPI-Host": "sudoku-service.p.rapidapi.com"
-// 	}
-// };
-
-// $.ajax(settings).done(function (response) {
-// 	console.log(response);
-// });
-
   
 
 
