@@ -50,3 +50,13 @@ td:hover
 {
     background-color: #f5dd90;
 }
+
+.error
+{
+    background-color: #ff0000;
+}
+
+.correct
+{
+    background-color: #f2f2f2;
+}
