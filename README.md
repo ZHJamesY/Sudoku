@@ -1,5 +1,5 @@
 # Sudoku
-Web page Sudoku game, visit link to play: https://zhjamesy.github.io/Sudoku/Code/Sudoku.html.
+Web page Sudoku game, visit link to play: https://zhjamesy.github.io/Sudoku/Code/Sudoku.html.  
 To be update...  
 Result display:    
 ![sudoku](https://user-images.githubusercontent.com/82336264/219824509-5661dedf-6197-4f80-8a8f-3be7769f0c7c.gif)
